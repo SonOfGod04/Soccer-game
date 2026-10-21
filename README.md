@@ -2,7 +2,7 @@
 
 A retro-inspired, playable 7-a-side football game built with **Phaser 3, TypeScript, and Vite**. Play in a modern browser—no install required for players.
 
-> **Game rule:** Each side has 7 players: 6 outfield players and 1 goalkeeper. This game is 
+> **Game rule:** Each side has 7 players: 6 outfield players and 1 goalkeeper. This g
 
 ## Features
 
