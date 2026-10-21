@@ -2,7 +2,7 @@
 
 A retro-inspired, playable 7-a-side football game built with **Phaser 3, TypeScript, and Vite**. Play in a modern browser—no install required for players.
 
-> **Game rule:** Each side has 7 players: 6 outfield players and 1 goalkeeper. So i'm so exhausted typing this night however i think i have found my motivation
+> **Game rule:** Each side has 7 players: 6 outfield players and 1 goalkeeper. So i'm so exhausted typing this night however i think i have found my motivation but what does PR in Canada means, I know i have a little bit of comfort talking with my brother but i trust God to still be a good God even if i don' resign on the 22nd of October directly but i must do that in my mind. I must really stop being mediocre. I must excel in all I do
 
 ## Features
 
